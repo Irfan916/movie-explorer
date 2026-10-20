@@ -33,7 +33,7 @@ A modern, fully responsive movie search application built with **React**, **Reac
   <img src="./public/dark.png" alt="Dark mode" width="45%" />
 </p>
 
-Live server : https://movie-explorer-ashy-zeta.vercel.app
+Live server : [https://movie-explorer-ashy-zeta.vercel.app](https://movie-explorer-peach-sigma.vercel.app/)
 
 ---
 
