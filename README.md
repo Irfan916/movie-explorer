@@ -60,7 +60,7 @@ Live server : [https://movie-explorer-ashy-zeta.vercel.app](https://movie-explor
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/movie-explorer.git
+git clone https:[//github.com/YOUR_USERNAME/movie-explorer.git](https://github.com/Irfan916/movie-explorer.git)
 cd movie-explorer
 
 # 2. Install dependencies
